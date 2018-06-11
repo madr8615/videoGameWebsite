@@ -1,0 +1,10 @@
+.jumbotron{
+    background-image:url("/final_projects/img/mario.jpg");
+    text-align:center;
+    font-size:70px;
+    text-shadow: 3px 2px black;
+    color:red;
+}
+body{
+    background-color:#3E4345;
+}

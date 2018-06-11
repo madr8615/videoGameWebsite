@@ -1,0 +1,14 @@
+ADMIN
+
+username: admin
+password: s3cr3t
+
+User1
+
+username: gamer10
+password: videogames1
+
+User2
+
+username: Mario
+password: supermario!
